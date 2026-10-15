@@ -1,14 +1,4 @@
-*NODE VERSION 👇*
 
-
-
-
-#!/usr/bin/env node
-/**
- * benfei_tech_notrack_only.js
- * Benfei Tech — Uncensored AI client.
- * Only renders the target AI response from the debate stream.
- */
 
 'use strict';
 
